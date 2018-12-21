@@ -1,9 +1,9 @@
  {
-    "name": "aobozhang/aliyun-oss-adapter",
+    "name": "ifelsend/aliyun-oss-adapter",
     "type": "library",
     "description": "Use Aliyun oss as Storage for Laravel 5.0+",
     "keywords": ["aliyun", "oss", "laravel", "storage"],
-    "homepage": "https://github.com/aobozhang",
+    "homepage": "https://github.com/ifelsend",
     "license": "MIT",
     "require": {
       "php": ">=5.4.0",
@@ -12,9 +12,9 @@
     },
     "authors": [
         {
-            "name": "Aobo",
-            "email": "aobozhang@gmail.com",
-            "homepage": "https://github.com/aobozhang",
+            "name": "naodai",
+            "email": "zhao_brain@163.com",
+            "homepage": "https://github.com/ifelsend",
             "role": "Developer"
         }
     ],
